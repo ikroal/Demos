@@ -10,7 +10,7 @@ import org.apache.hadoop.io.LongWritable;
 import java.io.IOException;
 
 /**
- * 最短路径的计算类
+ * 最短路径的计算类。
  * @author ikroal
  * @date 2019-09-07
  * @time: 10:09
